@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Currently I'm studying computer science in Wroclaw, Poland.
+My hobbies are:
+- Programming. Mostly low level. I feel confident writing in c and c++ but somewhere in the future I want to checkout Rust.
+I also know python pretty well.
+- Hacking. In ctf competitions I focus on binary exploitation.
+- Watching good animation (anime and cartoons).
+- Listening to weird music (Otoboke Beaver, Midori, Melt-Banana etc).
